@@ -1,0 +1,9 @@
+[user]
+	email = gvolosnyh@gmail.com
+	name = George Volosnyh
+[alias]
+	lg = log --pretty=format:\"%h - %an(%ae) : %s\"
+[core]
+	editor = vim
+[credential]
+	helper = osxkeychain
